@@ -1,0 +1,277 @@
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\BookStore.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\BookStore.Views.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\libman.json
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\BookStore.exe
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\BookStore.deps.json
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\BookStore.runtimeconfig.json
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\BookStore.runtimeconfig.dev.json
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.csprojAssemblyReference.cache
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.AssemblyInfoInputs.cache
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.AssemblyInfo.cs
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.RazorAssemblyInfo.cache
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.RazorAssemblyInfo.cs
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.TagHelpers.input.cache
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.TagHelpers.output.cache
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.RazorCoreGenerate.cache
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Authors\Create.cshtml.g.cs
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Authors\Details.cshtml.g.cs
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Authors\Index.cshtml.g.cs
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.RazorTargetAssemblyInfo.cache
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.RazorTargetAssemblyInfo.cs
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.Views.pdb
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.csproj.CopyComplete
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\staticwebassets\BookStore.StaticWebAssets.Manifest.cache
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\staticwebassets\BookStore.StaticWebAssets.xml
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.pdb
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.genruntimeconfig.cache
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\BookStore.pdb
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\BookStore.Views.pdb
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Authors\Edit.cshtml.g.cs
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Authors\Delete.cshtml.g.cs
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Books\Index.cshtml.g.cs
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Books\Details.cshtml.g.cs
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Books\Create.cshtml.g.cs
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Books\Edit.cshtml.g.cs
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Books\Delete.cshtml.g.cs
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Validation.cshtml.g.cs
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.csproj.CoreCompileInputs.cache
+D:\Web Design\WEB\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.MvcApplicationPartsAssemblyInfo.cache
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\libman.json
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\BookStore.exe
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\BookStore.deps.json
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\BookStore.runtimeconfig.json
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\BookStore.runtimeconfig.dev.json
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\BookStore.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\BookStore.pdb
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\BookStore.Views.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\BookStore.Views.pdb
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.csproj.AssemblyReference.cache
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.AssemblyInfoInputs.cache
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.AssemblyInfo.cs
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.csproj.CoreCompileInputs.cache
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.MvcApplicationPartsAssemblyInfo.cache
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.RazorAssemblyInfo.cache
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.RazorAssemblyInfo.cs
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\staticwebassets\BookStore.StaticWebAssets.Manifest.cache
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\staticwebassets\BookStore.StaticWebAssets.xml
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\scopedcss\bundle\BookStore.styles.css
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.TagHelpers.input.cache
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.TagHelpers.output.cache
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.RazorCoreGenerate.cache
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Authors\Create.cshtml.g.cs
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Authors\Delete.cshtml.g.cs
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Authors\Details.cshtml.g.cs
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Authors\Edit.cshtml.g.cs
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Books\Create.cshtml.g.cs
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Books\Delete.cshtml.g.cs
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Books\Details.cshtml.g.cs
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Books\Edit.cshtml.g.cs
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Books\Index.cshtml.g.cs
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Validation.cshtml.g.cs
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.RazorTargetAssemblyInfo.cache
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.RazorTargetAssemblyInfo.cs
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.Views.pdb
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.csproj.CopyComplete
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.dll
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.pdb
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.genruntimeconfig.cache
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Authors\Index.cshtml.g.cs
+D:\Web Design\WEB\Khalid Essaadani\Asp .Net Core Elsaadani\WebApplicationBookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
